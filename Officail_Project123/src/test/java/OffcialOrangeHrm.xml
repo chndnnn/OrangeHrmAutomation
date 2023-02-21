@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="OrangeHRM.NewTest"/>
+       <class name="OrangeHRM.LoginHrm"/>
+        <class name="OrangeHRM.ForgotPassword"/>
+         <class name="OrangeHRM.ResetPassword"/>
+          <class name="OrangeHRM.EmployReview"/>
+           <class name="OrangeHRM.SupportPage"/>
+            <class name="OrangeHRM.Employ_performanance"/>
+            <class name="OrangeHRM.PostNewsFeed"/>
+            <class name="OrangeHRM.DeletePost"/>
+            <class name="OrangeHRM.EmployRecords"/>
+             <class name="OrangeHRM.Logout"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

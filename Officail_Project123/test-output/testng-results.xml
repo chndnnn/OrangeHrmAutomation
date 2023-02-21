@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T11:08:31 IST" name="Suite" finished-at="2023-02-21T11:10:31 IST" duration-ms="120762">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T11:08:31 IST" name="Test" finished-at="2023-02-21T11:10:31 IST" duration-ms="120762">
+      <class name="OrangeHRM.Employ_performanance">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.Employ_performanance@202b0582]" started-at="2023-02-21T11:09:25 IST" name="beforeMethod" finished-at="2023-02-21T11:09:31 IST" duration-ms="5504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="EmployPerformanance()[pri:0, instance:OrangeHRM.Employ_performanance@202b0582]" started-at="2023-02-21T11:09:31 IST" name="EmployPerformanance" finished-at="2023-02-21T11:09:37 IST" duration-ms="6104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployPerformanance -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.Employ_performanance@202b0582]" started-at="2023-02-21T11:09:37 IST" name="afterMethod" finished-at="2023-02-21T11:09:37 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.Employ_performanance -->
+      <class name="OrangeHRM.EmployReview">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.EmployReview@7ef82753]" started-at="2023-02-21T11:08:55 IST" name="beforeMethod" finished-at="2023-02-21T11:09:00 IST" duration-ms="5219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Employ_Review()[pri:0, instance:OrangeHRM.EmployReview@7ef82753]" started-at="2023-02-21T11:09:00 IST" name="Employ_Review" finished-at="2023-02-21T11:09:13 IST" duration-ms="12969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employ_Review -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.EmployReview@7ef82753]" started-at="2023-02-21T11:09:13 IST" name="afterMethod" finished-at="2023-02-21T11:09:14 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.EmployReview -->
+      <class name="OrangeHRM.DeletePost">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.DeletePost@1ca3b418]" started-at="2023-02-21T11:09:47 IST" name="beforeMethod" finished-at="2023-02-21T11:09:52 IST" duration-ms="5106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Delete_Post()[pri:0, instance:OrangeHRM.DeletePost@1ca3b418]" started-at="2023-02-21T11:09:52 IST" name="Delete_Post" finished-at="2023-02-21T11:09:59 IST" duration-ms="7471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_Post -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.DeletePost@1ca3b418]" started-at="2023-02-21T11:09:59 IST" name="afterMethod" finished-at="2023-02-21T11:09:59 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.DeletePost -->
+      <class name="OrangeHRM.ResetPassword">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.ResetPassword@3e27ba32]" started-at="2023-02-21T11:08:47 IST" name="beforeMethod" finished-at="2023-02-21T11:08:51 IST" duration-ms="4759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Reset_Password()[pri:0, instance:OrangeHRM.ResetPassword@3e27ba32]" started-at="2023-02-21T11:08:51 IST" name="Reset_Password" finished-at="2023-02-21T11:08:55 IST" duration-ms="3475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reset_Password -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.ResetPassword@3e27ba32]" started-at="2023-02-21T11:08:55 IST" name="afterMethod" finished-at="2023-02-21T11:08:55 IST" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.ResetPassword -->
+      <class name="OrangeHRM.SupportPage">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.SupportPage@3b0fe47a]" started-at="2023-02-21T11:09:14 IST" name="beforeMethod" finished-at="2023-02-21T11:09:19 IST" duration-ms="5885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Support_Page()[pri:0, instance:OrangeHRM.SupportPage@3b0fe47a]" started-at="2023-02-21T11:09:19 IST" name="Support_Page" finished-at="2023-02-21T11:09:25 IST" duration-ms="5832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Support_Page -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.SupportPage@3b0fe47a]" started-at="2023-02-21T11:09:25 IST" name="afterMethod" finished-at="2023-02-21T11:09:25 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.SupportPage -->
+      <class name="OrangeHRM.LoginHrm">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.LoginHrm@298a5e20]" started-at="2023-02-21T11:08:31 IST" name="beforeMethod" finished-at="2023-02-21T11:08:37 IST" duration-ms="6529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login()[pri:0, instance:OrangeHRM.LoginHrm@298a5e20]" started-at="2023-02-21T11:08:37 IST" name="Login" finished-at="2023-02-21T11:08:39 IST" duration-ms="1769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.LoginHrm@298a5e20]" started-at="2023-02-21T11:08:39 IST" name="afterMethod" finished-at="2023-02-21T11:08:39 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.LoginHrm -->
+      <class name="OrangeHRM.ForgotPassword">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.ForgotPassword@117159c0]" started-at="2023-02-21T11:08:39 IST" name="beforeMethod" finished-at="2023-02-21T11:08:44 IST" duration-ms="5083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Forgot_Password()[pri:0, instance:OrangeHRM.ForgotPassword@117159c0]" started-at="2023-02-21T11:08:44 IST" name="Forgot_Password" finished-at="2023-02-21T11:08:47 IST" duration-ms="2371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Forgot_Password -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.ForgotPassword@117159c0]" started-at="2023-02-21T11:08:47 IST" name="afterMethod" finished-at="2023-02-21T11:08:47 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.ForgotPassword -->
+      <class name="OrangeHRM.EmployRecords">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.EmployRecords@58cbafc2]" started-at="2023-02-21T11:09:59 IST" name="beforeMethod" finished-at="2023-02-21T11:10:06 IST" duration-ms="6281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Employ_Records()[pri:0, instance:OrangeHRM.EmployRecords@58cbafc2]" started-at="2023-02-21T11:10:06 IST" name="Employ_Records" finished-at="2023-02-21T11:10:16 IST" duration-ms="10781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Employ_Records -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.EmployRecords@58cbafc2]" started-at="2023-02-21T11:10:16 IST" name="afterMethod" finished-at="2023-02-21T11:10:17 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.EmployRecords -->
+      <class name="OrangeHRM.PostNewsFeed">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.PostNewsFeed@235ecd9f]" started-at="2023-02-21T11:09:37 IST" name="beforeMethod" finished-at="2023-02-21T11:09:42 IST" duration-ms="5237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="PostNews_Feed()[pri:0, instance:OrangeHRM.PostNewsFeed@235ecd9f]" started-at="2023-02-21T11:09:42 IST" name="PostNews_Feed" finished-at="2023-02-21T11:09:46 IST" duration-ms="4006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostNews_Feed -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.PostNewsFeed@235ecd9f]" started-at="2023-02-21T11:09:46 IST" name="afterMethod" finished-at="2023-02-21T11:09:47 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.PostNewsFeed -->
+      <class name="OrangeHRM.Logout">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:OrangeHRM.Logout@2034b64c]" started-at="2023-02-21T11:10:17 IST" name="beforeMethod" finished-at="2023-02-21T11:10:25 IST" duration-ms="8667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Log_out()[pri:0, instance:OrangeHRM.Logout@2034b64c]" started-at="2023-02-21T11:10:25 IST" name="Log_out" finished-at="2023-02-21T11:10:30 IST" duration-ms="4468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log_out -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:OrangeHRM.Logout@2034b64c]" started-at="2023-02-21T11:10:30 IST" name="afterMethod" finished-at="2023-02-21T11:10:31 IST" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- OrangeHRM.Logout -->
+      <class name="OrangeHRM.NewTest">
+        <test-method signature="f()[pri:0, instance:OrangeHRM.NewTest@6340e5f0]" started-at="2023-02-21T11:08:31 IST" name="f" finished-at="2023-02-21T11:08:31 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- OrangeHRM.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
